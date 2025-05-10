@@ -124,7 +124,15 @@ A Python microservice is used to extract product data from Instagram posts. It a
 
 ## 🧾 License
 
-[MIT](LICENSE)
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License - see the [LICENSE](LICENSE) file for details.
+
+### Summary of Terms:
+- **Attribution**: You must provide appropriate credit, link to the license, and indicate if changes were made.
+- **NonCommercial**: You may not use the material for commercial purposes.
+- **No additional restrictions**: You cannot apply technological or legal restrictions that limit others' ability to use the material as allowed by the license.
+
+Full License Details: [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ---
 
